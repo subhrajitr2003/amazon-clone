@@ -255,8 +255,8 @@ input {
 }
 
 .card-box img {
-    margin: 12px 17px;
-    width: 356px;
+    margin: 12px 0px;
+    width: 320px;
     height: 300px;
 }
 
